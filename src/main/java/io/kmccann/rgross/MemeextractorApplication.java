@@ -9,4 +9,5 @@ public class MemeextractorApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MemeextractorApplication.class, args);
 	}
+
 }
